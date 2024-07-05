@@ -9,7 +9,7 @@
   }
   
 - 📫 How to reach me {
--  discord -> depicdoge9000
+-  discord -> epicdoge9000
 -  email -> stepan.tsokur@gmail.com
 -  }
 -  
