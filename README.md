@@ -3,9 +3,9 @@
 - 👀 I’m interested in Game Development
 - 
 - 🌱 I have experience in these engines (in order of knowledge){
-- >>>Unreal Engine<<<
-  >>>Unity<<<
-  >>>godot<<<
+- >>>Unreal Engine>>>
+  >>>Unity>>>
+  >>>godot>>>
   }
   
 - 📫 How to reach me {
