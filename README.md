@@ -2,10 +2,9 @@
 - 
 - 👀 I’m interested in Game Development
 - 
-- 🌱 I have experience in these engines (in order of knowledge){
+- 🌱 I have experience in these engines {
+- >>>Unity>>>
 - >>>Unreal Engine>>>
-  >>>Unity>>>
-  >>>godot>>>
   }
   
 - 📫 How to reach me {
