@@ -1,22 +1,6 @@
-- 👋 Hi, I’m @MasterDogeF
-- 
-- 👀 I’m interested in Game Development
-- 
-- 🌱 I have experience in these engines {
-- >>>Unity>>>
-- >>>Unreal Engine>>>
-  }
-  
-- 📫 How to reach me {
--  discord -> epicdoge9000
--  email -> stepan.tsokur@gmail.com
--  }
--  
-- 😄 Pronouns: he/him
-- 
-- ⚡ Fun fact: i compose all the songs you hear in my games
+Yo
 
-<!---
+
 MasterDogeF/MasterDogeF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
